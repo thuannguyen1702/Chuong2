@@ -1,0 +1,6 @@
+a=float(input('so1: '))
+b=float(input('so2: '))
+c=float(input('so3: '))
+d=float(input('so4: '))
+print('Tong=', a+b+c+d )
+print('TBC=', (a+b+c+d)/4)

@@ -1,0 +1,5 @@
+a=float(input('ban kinh duong tron: '))
+S=float(3.14*a**2)
+print('dien tich: ', S )
+C=float(2*a*3.14)
+print('chu vi: ', C )
